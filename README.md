@@ -12,20 +12,21 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 ### Table of Contents
 
   - Programming (Python)
-    - [Professional Cloud Data Engineer Certification Assistance Tool](https://github.com/tuanx18/python-gcp-cert-tool/tree/main)
-  - Data Science (Python)
-    - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
-    - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
-    - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
-    - [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
-    - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
-    - [Mobile Price Classification](https://github.com/tuanx18/ds-python-projects/blob/main/Mobile_Price_Classification.ipynb)
-    - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
-    - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
-    - [Water Potability Prediction](https://github.com/tuanx18/ds-projects/blob/main/Water_Potable_Prediction.ipynb)
-    - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
-    - [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
-    - [Used Car Price Analysis]()
+    - [Python game Donkey Kong](https://github.com/AyaBh/Python-game-Donkey-Kong)
+  -Data Analysis
+    - [Movies Dataset Analysis using advanced knowledge of Spreadsheets](https://github.com/AyaBh/-Movies-Dataset-Analysis-using-advanced-knowledge-of-Spreadsheets)
+  - Data Engineering (Python,R,SQL,Spark)
+    - [Data Wrnagling & Data Scrapping - Beautiful Soup](https://github.com/AyaBh/Data-Wrnagling-Data-Scrapping/tree/main)
+    - [Text classification using NLP](https://github.com/AyaBh/Text-classification-using-NLP-)
+    - [NLP & Text Mining](https://github.com/AyaBh/NLP-Text-Mining)
+  - Data Science (Python,R)
+    - [Face recognition EigenFaces PCA](https://github.com/AyaBh/Face-recognition-EigenFaces-PCA-)
+    - [Face recognition Fisher Discriminant Analysis and PCA](Face-recognition-Fisher-Discriminant-Analysis-and-PCA-)
+    - [Pokemon winner of the fight prediction ](https://github.com/AyaBh/Pokedex-MachineLearning)
+    - [Time Series modeling and forecasting of Bitcoin](https://github.com/AyaBh/Time-Series-modeling-and-forecasting-of-Bitcoin)
+    - [Dimensionality reduction and clustering](https://github.com/AyaBh/Dimensionality-reduction-and-clustering)
+  - Statistics
+    - [Intermediate Statistics MOOCs study](https://github.com/AyaBh/Intermediate-Statistics-MOOCs-study)
   - Spark SQL / PySpark
     - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
   - SQL
