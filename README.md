@@ -3,7 +3,6 @@
 # Hi there! I'm Aya.
 ![Aya Linkedin pic](https://github.com/AyaBh/Portfolio/blob/main/linkedin_pic.png)
 
-https://github.com/AyaBh/Portfolio/blob/main/linkedin_pic.png
 I'm excited to share my growing Data Engineer / Data Scientist portfolio. Within this repository, you'll find a comprehensive collection of projects completed during various data analytics, engineering, and science courses, as well as self-development exercises, each covering essential skills and techniques.
 
 With an Engineering degree in Data Science and Applied Statistics from UC3M's School of Engineering, which holds the most prestigious engineering accreditation in Spain, and an MSc in Artificial Intelligence & Big Data from ESGI, the top-ranked alternance engineering school in France, I bring to the field of data a unique blend of technical expertise and analytical insight. As a candidate seeking the role of Data Engineer / Data Scientist, I am eager to demonstrate my technical, analytical, and logical talents in these fields.
