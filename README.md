@@ -1,4 +1,4 @@
-# Data Engineer Portfolio
+# Data Engineer / Scientist Portfolio
 
 # Hi there! I'm Aya.
 ![Aya Linkedin pic](https://github.com/AyaBh/Portfolio/blob/main/linkedin_pic.png)
