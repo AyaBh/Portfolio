@@ -1,4 +1,4 @@
-# Data Engineer / Scientist Portfolio
+# Data Engineering / Data Science Portfolio
 
 # Hi there! I'm Aya.
 ![Aya Linkedin pic](https://github.com/AyaBh/Portfolio/blob/main/linkedin_pic.png)
@@ -7,8 +7,37 @@ I'm excited to share my growing Data Engineer / Data Scientist portfolio. Within
 
 With an Engineering degree in Data Science and Applied Statistics from UC3M's School of Engineering, which holds the most prestigious engineering accreditation in Spain, and an MSc in Artificial Intelligence & Big Data from ESGI, the top-ranked alternance engineering school in France, I bring to the field of data a unique blend of technical expertise and analytical insight. As a candidate seeking the role of Data Engineer / Data Scientist, I am eager to demonstrate my technical, analytical, and logical talents in these fields.
 
-I am now confident in my ability to work with complex data, proficiently build efficient data pipelines, develop expansive data lakes, and optimize data warehouses using a combination of programming expertise and cloud technologies. Additionally, through hands-on work in university laboratories, I gained expertise in leadership, data management, statistical analysis, machine learning, and data manipulation — all skills that I believe will be valuable in my next professional endeavor.
+In my portfolio, you'll find a collection of diverse data science and data analysis projects that showcase my skills in extracting valuable insights from data, solving real-world problems, and making data-driven decisions, build efficient data pipelines and optimize data warehouses using a combination of programming expertise and cloud technologies. I also gained expertise  during my work experience in leadership, data management, statistical analysis, and data manipulation — all skills that I believe will be valuable in my next professional endeavor. The below parts is where I placed the files and their details.
 
+### Table of Contents
+
+  - Programming (Python)
+    - [Professional Cloud Data Engineer Certification Assistance Tool](https://github.com/tuanx18/python-gcp-cert-tool/tree/main)
+  - Data Science (Python)
+    - [Customer Churn Prediction](https://github.com/tuanx18/ds-projects/blob/main/Customer_Churn_Prediction.ipynb)
+    - [Travel Insurance Prediction](https://github.com/tuanx18/ds-projects/blob/main/Travel_Insurance_Buying_Prediction.ipynb)
+    - [Australia Rain Prediction](https://github.com/tuanx18/ds-projects/blob/main/Australia_Rain_Prediction.ipynb)
+    - [Student Performance in Exam Analysis](https://github.com/tuanx18/ds-projects/blob/main/Student_Performance_in_Exam_Analysis.ipynb)
+    - [Stellar Classification](https://github.com/tuanx18/ds-projects/blob/main/Stellar_Classification.ipynb)
+    - [Mobile Price Classification](https://github.com/tuanx18/ds-python-projects/blob/main/Mobile_Price_Classification.ipynb)
+    - [Fatalities in Israel-Palestines War Analysis](https://github.com/tuanx18/ds-projects/blob/main/Fatalities_in_Israel_Palestines_War_Analysis.ipynb)
+    - [Airline Passenger Satisfaction Analysis](https://github.com/tuanx18/ds-projects/blob/main/Airline_Passenger_Satisfaction.ipynb)
+    - [Water Potability Prediction](https://github.com/tuanx18/ds-projects/blob/main/Water_Potable_Prediction.ipynb)
+    - [Breast Cancer Prediction](https://github.com/tuanx18/ds-projects/blob/main/Breast_Cancer_Prediction.ipynb)
+    - [Diabetes Analysis and Prediction](https://github.com/tuanx18/ds-projects/blob/main/Diabetes_Analysis-Prediction.ipynb)
+    - [Used Car Price Analysis]()
+  - Spark SQL / PySpark
+    - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
+  - SQL
+    - [AdventureWorks Practical Knowledge Showcase Project](https://github.com/tuanx18/ds-sql-AW-showcase/tree/main)
+      - [Part 1 - Getting used to beginner level of SQL commands](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-1.sql)
+      - [Part 2 - Diving Deeper into Data Manipulation](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-2.sql)
+      - [Part 3 - SQL Metamorphosis: Crafting with REPLACE, CAST, and NTILE](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-3.sql)
+      - [Part 4 - SQL Shapeshifters: Introduction to Data Ranking and Splitting](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-4.sql)
+      - [Part 5 - Introduction to Functions: Learning about Table-Returned Functions](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-5.sql)
+      - [Part 6 - Dynamic SQL and Stored Procedures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-6.sql)
+      - [Part 7 - Advanced Procedures and Function Problems](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-7.sql)
+      - [Part 8 - The Art of SQL Logic: Looping Techniques and Conditional Structures](https://github.com/tuanx18/ds-sql-projects/blob/main/AW-Project-Part-8.sql)
 ### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
 - Brief overview:   Beautiful Soup tool used to extract data from [official Berlin website](https://www.berlin.de/restaurants/stadtteile/), create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
