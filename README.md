@@ -1,8 +1,12 @@
 # Data Engineer Portfolio
 
 # Hi there! I'm Aya.
-I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering/science courses or self development exercises, each of which covers essential skills and techniques.
-#
+I'm excited to share my growing Data Engineer / Data Scientist portfolio. Within this repository, you'll find a comprehensive collection of projects completed during various data analytics, engineering, and science courses, as well as self-development exercises, each covering essential skills and techniques.
+
+With an Engineering degree in Data Science and Applied Statistics from UC3M's School of Engineering, which holds the most prestigious engineering accreditation in Spain, and an MSc in Artificial Intelligence & Big Data from ESGI, the top-ranked alternance engineering school in France, I bring to the field of data a unique blend of technical expertise and analytical insight. As a candidate seeking the role of Data Engineer / Data Scientist, I am eager to demonstrate my technical, analytical, and logical talents in these fields.
+
+I am now confident in my ability to work with complex data, proficiently build efficient data pipelines, develop expansive data lakes, and optimize data warehouses using a combination of programming expertise and cloud technologies. Additionally, through hands-on work in university laboratories, I gained expertise in leadership, data management, statistical analysis, machine learning, and data manipulation — all skills that I believe will be valuable in my next professional endeavor.
+
 ### [Web Scrapping - Beautiful Soup](https://github.com/lucjankonopka/web_scrapping)
 
 - Brief overview:   Beautiful Soup tool used to extract data from [official Berlin website](https://www.berlin.de/restaurants/stadtteile/), create a dataset with all restaurants in Berlin and then visualize in form of map of restaurants in Tableau Public.
