@@ -29,6 +29,8 @@ In my portfolio, you'll find a collection of diverse data science and data analy
     - [Intermediate Statistics MOOCs study](https://github.com/AyaBh/Intermediate-Statistics-MOOCs-study)
   - Spark SQL / PySpark
     - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
+  - Cloud
+
   - SQL
 
 
