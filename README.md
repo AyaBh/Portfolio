@@ -33,6 +33,6 @@ In my portfolio, you'll find a collection of diverse data science and data analy
 
 
 # 
-[My LinkedIn Profile](https://www.linkedin.com/in/lucjankonopka/)
+[My LinkedIn Profile](https://www.linkedin.com/in/aya-ben-hriz-86214a201/)
 
 [My Tableau Profile]()
