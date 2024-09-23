@@ -30,7 +30,9 @@ In my portfolio, you'll find a collection of diverse data science and data analy
   - Spark SQL / PySpark
     - [Billionaire Research And Exploration](https://github.com/tuanx18/apache-spark-projects/blob/main/Billionaire_Research_And_Exploration.ipynb)
   - Cloud
-  - [GCP prediction pipeline](https://github.com/AyaBh/gcp_prediction_pipeline)
+    - [GCP prediction pipeline](https://github.com/AyaBh/gcp_prediction_pipeline)
+  - Orchestration and Automation
+    - [Velib availability prediction pipeline using Airflow](https://github.com/AyaBh/orchestration_ml_projet)
 
   - SQL
 
