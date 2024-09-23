@@ -33,7 +33,8 @@ In my portfolio, you'll find a collection of diverse data science and data analy
     - [GCP prediction pipeline](https://github.com/AyaBh/gcp_prediction_pipeline)
   - Orchestration and Automation
     - [Velib availability prediction pipeline using Airflow](https://github.com/AyaBh/orchestration_ml_projet)
-
+  - Computer Vision
+    - [Seatbelt detection using YOLOV8 and Airflow](https://github.com/AyaBh/Computer-Vision-YOLOV8)
   - SQL
 
 
